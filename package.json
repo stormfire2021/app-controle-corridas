@@ -4,8 +4,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href=/sgb-app/",
-    "ghpages": "angular-cli-ghpages --dir=dist/sgb-app --repo=https://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@github.com/stormfire2021/sgb-app --name='stormfire' --email=fabiulapellicciotti@gmail.com ",
+    "build": "ng build --base-href=/app-controle-corridas/",
+    "ghpages": "angular-cli-ghpages --dir=dist/app-controle-corridas --repo=https://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@github.com/stormfire2021/app-controle-corridas --name='stormfire' --email=fabiulapellicciotti@gmail.com ",
     "deploy": "npm run ghpages —no-silent",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
